@@ -56,8 +56,8 @@ public:
 
 int main(){
     
-    Employee employee1 = Employee("jhon.M", "Stark industires", 24);
-    Employee employee2 = Employee("Mark.M", "Stark industries", 34);  
+    Employee employee1 = Employee("lokesh", "Astro x", 24);
+    Employee employee2 = Employee("sebastian", "Astro x", 34);  
 
     employee1.AskForPromotion();
     employee2.AskForPromotion();  
